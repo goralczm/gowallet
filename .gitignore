@@ -1,0 +1,6 @@
+/old
+/vendor
+/composer.json
+/composer.lock
+/system/db_connect.php
+/system/s3_connect.php
